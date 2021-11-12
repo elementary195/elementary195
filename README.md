@@ -2,7 +2,7 @@
 ### Hardworking and ambitious Junior developer from Russia
 <hr>
 - 🌱 I’m currently learning <strong>Firebase & VueFire</strong> <br>
-- 📫 How to reach me: alexxproff69@gmail.com
+- 📫 How to reach me: alexeyprokofiev195@gmail.com
 <hr>
 <span>
 <img src="https://user-images.githubusercontent.com/62440186/118359846-f9bf1d80-b58d-11eb-87cc-cd7ed15bdefb.png" width="30px" height="30px">&nbsp;&nbsp;
