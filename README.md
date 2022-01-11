@@ -1,7 +1,6 @@
 # Hi 👋, I'm Alexey Prokofev
-### Hardworking and ambitious Junior developer from Russia
 <hr>
-- 🌱 I’m currently learning <strong>PHP</strong> <br>
+- 🌱 I’m currently learning <strong>React</strong> <br>
 - 📫 How to reach me: alexeyprokofiev195@gmail.com
 <hr>
 <span>
