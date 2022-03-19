@@ -40,6 +40,9 @@
   <a href="https://git-scm.com/" target="_blank">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" height="50px"></code>
 </a>
+  <a href="https://github.com/" target="_blank">
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" height="50px"></code>
+</a>
   <a href="https://www.android.com/" target="_blank">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50px" height="50px"></code>
 </a>
