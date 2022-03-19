@@ -28,9 +28,6 @@
   <a href="https://vuetifyjs.com/en/" target="_blank">
   <code><img src="https://user-images.githubusercontent.com/62440186/126898289-f3f911fd-dfc3-4de7-a7e4-c094f1cbe47a.png" width="50px" height="50px"></code>
 </a>
-<a href="https://firebase.google.com/" target="_blank">
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50px" height="50px"></code>
-</a>
   <a href="https://ru.vuejs.org/index.html" target="_blank">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50px" height="50px"></code>
 </a>
@@ -51,6 +48,9 @@
 </a>
   <a href="https://www.adobe.com/ru/products/photoshop.html" target="_blank">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50px" height="50px"></code>
+</a>
+  <a href="https://firebase.google.com/" target="_blank">
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50px" height="50px"></code>
 </a>
   <a href="https://www.mysql.com/" target="_blank">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px"></code>
