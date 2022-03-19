@@ -19,6 +19,9 @@
   <a href="https://www.javascript.com/" target="_blank">
   <code><img src="https://user-images.githubusercontent.com/62440186/118359848-fa57b400-b58d-11eb-9908-e1dbed0d4f8e.png" width="50px" height="50px"></code>
 </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" height="50px"></code>
+</a>
   <a href="https://vuefire.vuejs.org/" target="_blank">
   <code><img src="https://user-images.githubusercontent.com/62440186/126898247-19cb31f2-52aa-4829-aa72-ed202824f1a9.png" width="50px" height="50px"></code>
 </a>
