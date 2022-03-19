@@ -39,6 +39,9 @@
     <a href="https://reactjs.org/" target="_blank">
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" height="50px"></code>
   </a>
+   <a href="https://redux.js.org/" target="_blank">
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50px" height="50px"></code>
+  </a>
     <a href="https://git-scm.com/" target="_blank">
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" height="50px"></code>
   </a>
