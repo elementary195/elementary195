@@ -30,9 +30,6 @@
     <a href="https://www.typescriptlang.org/" target="_blank">
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" height="50px"></code>
   </a>
-    <a href="https://vuefire.vuejs.org/" target="_blank">
-    <code><img src="https://user-images.githubusercontent.com/62440186/126898247-19cb31f2-52aa-4829-aa72-ed202824f1a9.png" width="50px" height="50px"></code>
-  </a>
     <a href="https://vuetifyjs.com/en/" target="_blank">
     <code><img src="https://user-images.githubusercontent.com/62440186/126898289-f3f911fd-dfc3-4de7-a7e4-c094f1cbe47a.png" width="50px" height="50px"></code>
   </a>
