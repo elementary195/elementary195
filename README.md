@@ -35,7 +35,7 @@
   <code><img src="https://user-images.githubusercontent.com/62440186/148935705-f5f3b81d-aeae-481a-9b98-75f1b7bb5c16.png" width="50px" height="50px"></code>
 </a>
   <a href="https://git-scm.com/" target="_blank">
-  <code><img src="https://user-images.githubusercontent.com/62440186/118359844-f9268700-b58d-11eb-9aa0-81442c2c0328.png" width="70px" height="50px"></code>
+  <code><img src="https://user-images.githubusercontent.com/62440186/118359844-f9268700-b58d-11eb-9aa0-81442c2c0328.png" width="100px" height="50px"></code>
 </a>
   <a href="https://www.figma.com/" target="_blank">
   <code><img src="https://user-images.githubusercontent.com/62440186/118359858-fc217780-b58d-11eb-9b51-fc31fc407bd3.png" width="50px" height="50px"></code>
