@@ -40,6 +40,9 @@
   <a href="https://git-scm.com/" target="_blank">
   <code><img src="https://user-images.githubusercontent.com/62440186/118359844-f9268700-b58d-11eb-9aa0-81442c2c0328.png" width="100px" height="50px"></code>
 </a>
+  <a href="https://www.android.com/" target="_blank">
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50px" height="50px"></code>
+</a>
   <a href="https://www.figma.com/" target="_blank">
   <code><img src="https://user-images.githubusercontent.com/62440186/118359858-fc217780-b58d-11eb-9b51-fc31fc407bd3.png" width="50px" height="50px"></code>
 </a>
