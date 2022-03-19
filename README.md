@@ -43,12 +43,6 @@
   <a href="https://www.android.com/" target="_blank">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50px" height="50px"></code>
 </a>
-  <a href="https://www.figma.com/" target="_blank">
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" height="50px"></code>
-</a>
-  <a href="https://www.adobe.com/ru/products/photoshop.html" target="_blank">
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50px" height="50px"></code>
-</a>
   <a href="https://firebase.google.com/" target="_blank">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50px" height="50px"></code>
 </a>
@@ -57,6 +51,12 @@
 </a>
   <a href="https://www.oracle.com/index.html" target="_blank">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50px" height="50px"></code>
+</a>
+    <a href="https://www.figma.com/" target="_blank">
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" height="50px"></code>
+</a>
+  <a href="https://www.adobe.com/ru/products/photoshop.html" target="_blank">
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50px" height="50px"></code>
 </a>
 
 
