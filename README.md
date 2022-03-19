@@ -1,6 +1,6 @@
 # Hi 👋, I'm Alexey Prokofev
 <hr>
-- 🌱 I’m currently learning <strong>React</strong> <br>
+- 🌱 I’m currently learning <strong>React Native</strong> <br>
 - 📫 How to reach me: alexeyprokofiev195@gmail.com
 <hr>
 <span>
