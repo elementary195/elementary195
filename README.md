@@ -20,6 +20,7 @@
 <img src="https://user-images.githubusercontent.com/62440186/118359860-fcba0e00-b58d-11eb-8029-10686c672fa3.png" width="30px" height="30px">&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/62440186/118359851-faf04a80-b58d-11eb-81af-7871f1e1d021.png" width="30px" height="30px">&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/62440186/136647445-23458393-b7d9-4cdc-b23b-6b5eff3ea721.png" width="30px" height="30px">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 
 <!--
 **josqer/josqer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
