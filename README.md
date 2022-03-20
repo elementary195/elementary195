@@ -2,7 +2,6 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 - 🌱 I’m currently learning <strong>Everything 🤣</strong> <br>
 - 📫 How to reach me: alexeyprokofiev195@gmail.com
-<img src="https://user-images.githubusercontent.com/62440186/159165773-bc03c279-16cb-448f-a878-00e61689cd25.svg" align="right" width="50%" alt="Github Image"/>
 
 ## 💡 Connect with me :
 <p align="left"> 
@@ -74,7 +73,7 @@
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50px" height="50px"></code>
   </a>
 </p>
-
+<img src="https://user-images.githubusercontent.com/62440186/159165773-bc03c279-16cb-448f-a878-00e61689cd25.svg" align="right" width="50%" alt="Github Image"/>
 <!--
 **josqer/josqer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 c
