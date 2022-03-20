@@ -2,9 +2,9 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 - 🌱 I’m currently learning <strong>Everything 🤣</strong> <br>
 - 📫 How to reach me: alexeyprokofiev195@gmail.com
+<img src="https://user-images.githubusercontent.com/62440186/159165773-bc03c279-16cb-448f-a878-00e61689cd25.svg" align="right" width="50%" alt="Github Image"/>
 
 ## 💡 Connect with me :
-<img src="https://user-images.githubusercontent.com/62440186/159165773-bc03c279-16cb-448f-a878-00e61689cd25.svg" align="right" width="50%" alt="Github Image"/>
 <p align="left"> 
    <a href="mailto:alexeyprokofiev195@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alexeyprokofiev195@gmail.com" />
