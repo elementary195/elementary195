@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Alexey Prokofev
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
-- 🌱 I’m currently learning <strong>Everything 🤣</strong> <br>
+- 🌱 I’m currently working with <strong>React, React-Native</strong> <br>
 - 📫 How to reach me: alexeyprokofiev195@gmail.com
 
 ## 💡 Connect with me :
